@@ -1,0 +1,28 @@
+{
+  "name": "object-to-formdata",
+  "version": "1.0.13",
+  "description": "A convenient client-side JavaScript function to create a FormData instance from the key-value pairs of an Object instance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albizeka/object-to-form-data.git"
+  },
+  "keywords": [
+    "object-to-formdata",
+    "javascript",
+    "object",
+    "formdata",
+    "form",
+    "submit"
+  ],
+  "author": "Albi Zeka",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/albizeka/object-to-formdata/issues"
+  },
+  "homepage": "https://github.com/albizeka/object-to-formdata#readme"
+}
